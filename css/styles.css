@@ -60,10 +60,6 @@ body {
     text-align: left;
   }
 }
-.toggle{
-  margin-left: -30px;
-  cursor: pointer;
-}
 
 form-item i {
     margin-left: -30px;
